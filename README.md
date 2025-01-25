@@ -1,5 +1,5 @@
 # CampbellChinese
-《Campbell Biology, 12th edition》个人翻译
+《Campbell Biology, 12th edition》个人翻译（很可能有生之年的项目）。
 
 # 目录
 1. [进化，生物学的主题，和科学探索](https://github.com/Cafwell/CampbellChinese/blob/main/content/Campbell_Biology%20_U0_wm_v1.0.pdf)
