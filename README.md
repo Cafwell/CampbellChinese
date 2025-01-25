@@ -2,7 +2,7 @@
 《Campbell Biology, 12th edition》个人翻译
 
 # 目录
-[进化，生物学的主题，和科学探索](content/Campbell_Biology _U0_wm_v1.0.pdf)
++ [[进化，生物学的主题，和科学探索](content/Campbell_Biology _U0_wm_v1.0.pdf)](https://github.com/Cafwell/CampbellChinese/blob/main/content/Campbell_Biology%20_U0_wm_v1.0.pdf)
 
 + __Unit1：生命的化学基础__
 2. 生命中的化学
