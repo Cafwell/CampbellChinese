@@ -1,7 +1,7 @@
 # CampbellChinese
 《Campbell Biology, 12th edition》个人翻译（很可能有生之年的项目）。
 
-# 目录
+## 目录
 1. [进化，生物学的主题，和科学探索](https://github.com/Cafwell/CampbellChinese/blob/main/content/Campbell_Biology%20_U0_wm_v1.0.pdf)
 
 + __Unit1：生命的化学基础__
@@ -74,3 +74,10 @@
 54. 群落生态学
 55. 生态系统与恢复生态学
 56. 保护生物学与全球变化
+
+---
+## 免责声明
+译者纯粹出于学习与交流目翻译本书，不追求任何经济利益。译者保留对此版本译文的署名权，其他权利以原作者和出版社的主张为准。本译文只供学习研究参考之用，不得公开传播发行或用于商业用途。有能力购买并阅读英文书籍者请支持正版。
+
+## 协议
+[![License: CC-BY 4.0](https://img.shields.io/github/license/Vonng/ddia?logo=opensourceinitiative&logoColor=green&color=slategray)](https://github.com/Vonng/ddia/blob/master/LICENSE)
